@@ -10,3 +10,5 @@
 - 📫 gusstavocardoso@gmail.com
 - ⚡ I like to read 📚, listen to music 🤘, watch series 📺 and play the guitar 🎸.
 
+![javascript_icon_130900 (1)](https://user-images.githubusercontent.com/52720347/120117509-f027df00-c163-11eb-9f22-5e2a2ee19b49.png)
+
