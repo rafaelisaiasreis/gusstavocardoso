@@ -8,5 +8,5 @@
 - 🤔 I try to solve doubts and curiosities whenever necessary.
 - 💬 Open to learn and share new knowledge.
 - 📫 gusstavocardoso@gmail.com
-- ⚡ I like to read, listen to music, watch series and play the guitar.
+- ⚡ I like to read 📚, listen to music 🤘, watch series 📺 and play the guitar 🎸.
 
