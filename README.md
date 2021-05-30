@@ -1,13 +1,18 @@
 ### Hi there 👋
 
-**Gustavo Cardoso** 
+# **Gustavo Cardoso** 
+
+[![](https://user-images.githubusercontent.com/52720347/120122503-903f3180-c17f-11eb-9f0c-e1bf12d15fde.png)](https://br.linkedin.com/in/gusstavocardoso)
+[![](https://user-images.githubusercontent.com/52720347/120122517-a816b580-c17f-11eb-865a-1a019a5543ae.png)](https://mail.google.com/gusstavocardoso@gmail.com)
+[![](https://user-images.githubusercontent.com/52720347/120122563-eb712400-c17f-11eb-9ede-57dcdc12c946.png)](https://www.youtube.com/gusstavocardoso)
+![instagram_f_icon-icons com_65485](https://user-images.githubusercontent.com/52720347/120122541-d1374600-c17f-11eb-8dd2-8f2d2b4b0198.png)
+
 
 - 🔭 I work as a Software Quality Analyst, performing manual and automated tests.
 - 🌱 Constantly study programming languages and tools for automated tests Web, Mobile and Microservices.
 - 👯 I try to collaborate on software development and quality projects.
 - 🤔 I try to solve doubts and curiosities whenever necessary.
 - 💬 Open to learn and share new knowledge.
-- 📫 gusstavocardoso@gmail.com
 - 📚 I like to read , 🤘 listen to music, 📺 watch series and 🎸 play the guitar.
 
 
@@ -23,6 +28,11 @@
 ![postgresql_plain_logo_icon_146389](https://user-images.githubusercontent.com/52720347/120117837-9aeccd00-c165-11eb-8a90-6c438d5a0bd7.png)
 ![mysql_plain_logo_icon_146414](https://user-images.githubusercontent.com/52720347/120117855-afc96080-c165-11eb-8295-f4200a9e52e4.png)
 ![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/52720347/120118019-b906fd00-c166-11eb-9325-d5cb838ba254.png)
+
+
+![gmail_new_logo_icon_159149](https://user-images.githubusercontent.com/52720347/120122517-a816b580-c17f-11eb-865a-1a019a5543ae.png)
+
+
 -->
 
 
