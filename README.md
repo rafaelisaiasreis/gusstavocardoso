@@ -3,7 +3,7 @@
 # **Gustavo Cardoso** 
 
 [![](https://user-images.githubusercontent.com/52720347/120122503-903f3180-c17f-11eb-9f0c-e1bf12d15fde.png)](https://br.linkedin.com/in/gusstavocardoso)
-[![](https://user-images.githubusercontent.com/52720347/120122517-a816b580-c17f-11eb-865a-1a019a5543ae.png)](gusstavocardoso@gmail.com)
+[![](https://user-images.githubusercontent.com/52720347/120122517-a816b580-c17f-11eb-865a-1a019a5543ae.png)](mailto:gusstavocardoso@gmail.com)
 [![](https://user-images.githubusercontent.com/52720347/120122563-eb712400-c17f-11eb-9ede-57dcdc12c946.png)](https://www.youtube.com/gusstavocardoso)
 [![](https://user-images.githubusercontent.com/52720347/120122541-d1374600-c17f-11eb-8dd2-8f2d2b4b0198.png)](https://www.instagram.com/gusstavocardoso)
 
