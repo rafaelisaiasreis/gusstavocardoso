@@ -2,10 +2,10 @@
 
 # **Gustavo Cardoso** 
 
-[![](https://user-images.githubusercontent.com/52720347/120122503-903f3180-c17f-11eb-9f0c-e1bf12d15fde.png)](https://br.linkedin.com/in/gusstavocardoso)
-[![](https://user-images.githubusercontent.com/52720347/120122517-a816b580-c17f-11eb-865a-1a019a5543ae.png)](mailto:gusstavocardoso@gmail.com)
-[![](https://user-images.githubusercontent.com/52720347/120122563-eb712400-c17f-11eb-9ede-57dcdc12c946.png)](https://www.youtube.com/gusstavocardoso)
-[![](https://user-images.githubusercontent.com/52720347/120122541-d1374600-c17f-11eb-8dd2-8f2d2b4b0198.png)](https://www.instagram.com/gusstavocardoso)
+[![](https://user-images.githubusercontent.com/52720347/120124075-c503b680-c188-11eb-80b6-a985c8220de9.png)](https://br.linkedin.com/in/gusstavocardoso)
+[![](https://user-images.githubusercontent.com/52720347/120124096-f2506480-c188-11eb-824c-bd765b77d6a1.png)](mailto:gusstavocardoso@gmail.com)
+[![](https://user-images.githubusercontent.com/52720347/120124301-2f692680-c18a-11eb-96fa-599d4e8cc96b.png)](https://www.youtube.com/gusstavocardoso)
+[![](https://user-images.githubusercontent.com/52720347/120124330-532c6c80-c18a-11eb-925a-8ea66a54a1cb.png)](https://www.instagram.com/gusstavocardoso)
 
 
 - 🔭 I work as a Software Quality Analyst, performing manual and automated tests.
@@ -28,9 +28,9 @@
 ![postgresql_plain_logo_icon_146389](https://user-images.githubusercontent.com/52720347/120117837-9aeccd00-c165-11eb-8a90-6c438d5a0bd7.png)
 ![mysql_plain_logo_icon_146414](https://user-images.githubusercontent.com/52720347/120117855-afc96080-c165-11eb-8295-f4200a9e52e4.png)
 ![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/52720347/120118019-b906fd00-c166-11eb-9325-d5cb838ba254.png)
+![instagram_f_icon-icons com_65485 (1)](https://user-images.githubusercontent.com/52720347/120124330-532c6c80-c18a-11eb-925a-8ea66a54a1cb.png)
 
 
-![gmail_new_logo_icon_159149](https://user-images.githubusercontent.com/52720347/120122517-a816b580-c17f-11eb-865a-1a019a5543ae.png)
 
 
 -->
