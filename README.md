@@ -28,11 +28,6 @@
 ![postgresql_plain_logo_icon_146389](https://user-images.githubusercontent.com/52720347/120117837-9aeccd00-c165-11eb-8a90-6c438d5a0bd7.png)
 ![mysql_plain_logo_icon_146414](https://user-images.githubusercontent.com/52720347/120117855-afc96080-c165-11eb-8295-f4200a9e52e4.png)
 ![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/52720347/120118019-b906fd00-c166-11eb-9325-d5cb838ba254.png)
-![instagram_f_icon-icons com_65485 (1)](https://user-images.githubusercontent.com/52720347/120124330-532c6c80-c18a-11eb-925a-8ea66a54a1cb.png)
-
-
-
-
 -->
 
 
