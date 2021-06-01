@@ -8,14 +8,12 @@
 [![](https://user-images.githubusercontent.com/52720347/120124330-532c6c80-c18a-11eb-925a-8ea66a54a1cb.png)](https://www.instagram.com/gusstavocardoso)
 
 
-- 🔭 I work as a Software Quality Analyst, performing manual and automated tests.
+- 🧪 I work as a Software Quality Analyst, performing manual and automated tests.
 - 💻 Constantly study programming languages and tools for automated tests Web, Mobile and Microservices.
-- 💡 I try to collaborate on software development and quality projects.
-- 🧪 I try to solve doubts and curiosities whenever necessary.
+- 🔭 I try to collaborate on software development and quality projects.
+- 💡 I try to solve doubts and curiosities whenever necessary.
 - 💬 Open to learn and share new knowledge.
 - 📚 I like to read , 🤘 listen to music, 📺 watch series and 🎸 play the guitar.
-
-
 
 <!--
 ![javascript_icon_130900 (1)](https://user-images.githubusercontent.com/52720347/120117509-f027df00-c163-11eb-9f22-5e2a2ee19b49.png)
