@@ -9,7 +9,7 @@
 
 
 - 🧪 I work as a Software Quality Analyst, performing manual and automated tests.
-- 💻 Constantly study programming languages and tools for automated tests Web, Mobile and Microservices.
+- 💻 I constantly study programming languages and automated testing tools for Web, Mobile and Microservices.
 - 🔭 I try to collaborate on software development and quality projects.
 - 💡 I try to solve doubts and curiosities whenever necessary.
 - 💬 Open to learn and share new knowledge.
