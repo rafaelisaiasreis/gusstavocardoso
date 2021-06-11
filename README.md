@@ -31,7 +31,17 @@
 ### *Knowledge in tools*
 ![git_original_wordmark_logo_icon_146510](https://user-images.githubusercontent.com/52720347/121527343-ab583f80-c9d0-11eb-86e5-0148fa90639b.png)
 ![file_type_git_icon_130581](https://user-images.githubusercontent.com/52720347/121528043-7ac4d580-c9d1-11eb-9109-14861baf2ce0.png)
- -->
+![jenkins_logo_icon_170552](https://user-images.githubusercontent.com/52720347/121739979-ca3efa80-cad2-11eb-9d50-7b8dddf0f2e8.png)
+![docker_original_wordmark_logo_icon_146557](https://user-images.githubusercontent.com/52720347/121740056-e5116f00-cad2-11eb-834a-6e69ad535859.png)
+
+
+### *Tests*
+![file_type_rspec_icon_130188](https://user-images.githubusercontent.com/52720347/121740171-1853fe00-cad3-11eb-90f2-1866230adfcf.png)
+![mocha_plain_logo_icon_146426](https://user-images.githubusercontent.com/52720347/121740239-2f92eb80-cad3-11eb-978f-22861dc6eafe.png)
+![cucumber_plain_logo_icon_146571](https://user-images.githubusercontent.com/52720347/120117685-b99e9400-c164-11eb-9c09-ed19167454fc.png)
+![file_type_cypress_icon_130654](https://user-images.githubusercontent.com/52720347/120117626-77755280-c164-11eb-9c5c-4b14dc56bbe3.png)
+-->
+
 
 <!--
 ![javascript_icon_130900 (1)](https://user-images.githubusercontent.com/52720347/120117509-f027df00-c163-11eb-9f22-5e2a2ee19b49.png)
