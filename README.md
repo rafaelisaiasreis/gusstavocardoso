@@ -26,6 +26,9 @@
 ![file_type_git_icon_130581](https://user-images.githubusercontent.com/52720347/121528043-7ac4d580-c9d1-11eb-9109-14861baf2ce0.png)
 ![cucumber_plain_logo_icon_146571](https://user-images.githubusercontent.com/52720347/120117685-b99e9400-c164-11eb-9c09-ed19167454fc.png)
 ![file_type_cypress_icon_130654](https://user-images.githubusercontent.com/52720347/120117626-77755280-c164-11eb-9c5c-4b14dc56bbe3.png)
+![icons8-automação-de-teste-de-selênio-48 (1)](https://user-images.githubusercontent.com/52720347/123528682-c1981800-d6bf-11eb-926f-15228cdc4d72.png)
+
+
 
 <!-- ### *SQL knowledge*
 ![postgresql_plain_logo_icon_146389](https://user-images.githubusercontent.com/52720347/120117837-9aeccd00-c165-11eb-8a90-6c438d5a0bd7.png)
