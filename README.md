@@ -23,8 +23,11 @@
 ![csharp_original_logo_icon_146578](https://user-images.githubusercontent.com/52720347/120117738-06826a80-c165-11eb-83f6-f6e168ec32df.png)
 ![file_type_git_icon_130581](https://user-images.githubusercontent.com/52720347/121528043-7ac4d580-c9d1-11eb-9109-14861baf2ce0.png)
 ![cucumber_plain_logo_icon_146571](https://user-images.githubusercontent.com/52720347/120117685-b99e9400-c164-11eb-9c09-ed19167454fc.png)
+![postman_logo_icon_144970 (1)](https://user-images.githubusercontent.com/52720347/131121233-357a185c-32c6-43e4-a16d-f29945d27d81.png)
 ![file_type_cypress_icon_130654](https://user-images.githubusercontent.com/52720347/120117626-77755280-c164-11eb-9c5c-4b14dc56bbe3.png)
 ![icons8-automação-de-teste-de-selênio-48 (1)](https://user-images.githubusercontent.com/52720347/123528682-c1981800-d6bf-11eb-926f-15228cdc4d72.png)
+
+
 <!-- ![postgresql_plain_logo_icon_146389](https://user-images.githubusercontent.com/52720347/120117837-9aeccd00-c165-11eb-8a90-6c438d5a0bd7.png)
 ![mysql_plain_logo_icon_146414](https://user-images.githubusercontent.com/52720347/120117855-afc96080-c165-11eb-8295-f4200a9e52e4.png) -->
 
